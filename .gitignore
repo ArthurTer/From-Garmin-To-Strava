@@ -1,0 +1,7 @@
+.env
+Code/
+access_token.pkl
+usb_device_event.log
+Strava/
+data/
+__pycache__/
